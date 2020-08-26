@@ -10,3 +10,12 @@ header {
 section {
   padding: 150px 0;
 }
+
+#git {
+    color: grey;
+    font-weight: bold;
+    font-size: 25px;
+}
+#git:hover{
+  color: black;
+}
